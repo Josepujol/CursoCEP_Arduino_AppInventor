@@ -8,7 +8,7 @@ Curso desarrollado para el CEP de Sevilla "Controlando Arduino desde dispositivo
 
 ## S2: App Inventor y Arduino via BT
 - [2.1 Comunicación Serie en Arduino](https://github.com/Josepujol/CursoCEP_Arduino_AppInventor/tree/master/2.1_ComunicacionSerieArduino)
-- [2.2 Control de encendido de un led desde App Inventor con módulo HC-06](https://github.com/Josepujol/CursoCEP_Arduino_AppInventor/tree/master/2.3_ControlLED_App_BT)
+- [2.2 Control de encendido de un led desde App Inventor con módulo HC-06](https://github.com/Josepujol/CursoCEP_Arduino_AppInventor/tree/master/2.2_ControlLED_App_BT)
 
 ## S3: Profundizando en la conexión App Inventor y Arduino via BT
 - 3.1 Elementos para comunicación Arduino-App Inventor
